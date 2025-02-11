@@ -1,0 +1,7 @@
+{
+  "java.test.config": {
+    "junit": {
+      "version": "1.1"
+    }
+  }
+}
